@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Pattern Recognition
 - 🤔 I’m looking for help with Deep Learning
 - 💬 Ask me about Chaos and Cryptography
-- 📫 How to reach me: j.p.valle@df.ufscar.br
 
 <div>
    <a href="https://github.com/vallejp">
