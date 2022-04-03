@@ -1,14 +1,8 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on University of São Paulo
-- 🌱 I’m currently learning Pattern Recognition
-- 🤔 I’m looking for help with Deep Learning
-- 💬 Ask me about Chaos and Cryptography
-
+### Hi there, I am João Pedro do Valle Alvarenga
 <div>
    <a href="https://github.com/vallejp">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vallejp&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallejp&layout=demo&langs_count=16&theme=merko"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vallejp&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallejp&layout=demo&langs_count=16&theme=merko"/>
 </div>
 
   
