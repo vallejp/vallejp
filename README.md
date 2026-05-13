@@ -30,10 +30,8 @@ I'm especially drawn to applications in **quantitative finance**, where non-line
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" />
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 **Machine Learning & Deep Learning**
@@ -76,14 +74,13 @@ I'm especially drawn to applications in **quantitative finance**, where non-line
 
 ### 📚 Selected Publications
 
-A full and up-to-date list lives on my [Google Scholar](https://scholar.google.com/citations?user=_Nw7S6EAAAAJ) profile.
+- **2025** · *Forecasting chaotic time series: Comparative performance of LSTM-based and Transformer-based neural networks* — *Chaos, Solitons & Fractals* **192**, 116034. [[link]](https://www.sciencedirect.com/science/article/pii/S0960077925000475)
+- **2025** · *End-to-end Artificial Intelligence to analyze dynamical processes: A linear benchmark test* — *Physica D: Nonlinear Phenomena*, 134880. [[link]](https://www.sciencedirect.com/science/article/pii/S0167278925003574)
+- **2024** · *Dynamics and patterns of the least significant digits of the infinite-arithmetic precision logistic map orbits* — *Chaos, Solitons & Fractals* **180**, 114488. [[link]](https://www.sciencedirect.com/science/article/pii/S0960077924000390)
+- **2022** · *Chaotical PRNG based on composition of logistic and tent maps using deep-zoom* — *Chaos, Solitons & Fractals* **161**, 112296. [[link]](https://www.sciencedirect.com/science/article/pii/S0960077922005069)
+- **2025** · *Pattern and pseudo-randomness of chaos* — Master's Thesis, University of São Paulo. [[PDF]](https://www.teses.usp.br/teses/disponiveis/76/76135/tde-22042025-082559/publico/JoaoPedrodoValleAlvarenga_ME_original.pdf)
 
-<!--
-Pin 2–3 representative pieces here, e.g.:
-- *Paper title* — Journal/Conference, Year. [[link]](https://...)
-- *Paper title* — Journal/Conference, Year. [[link]](https://...)
--->
-
+A full and up-to-date list also lives on my [Google Scholar](https://scholar.google.com/citations?user=_Nw7S6EAAAAJ) profile.
 ---
 
 ### 📊 GitHub Stats
